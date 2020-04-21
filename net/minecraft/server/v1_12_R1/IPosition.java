@@ -1,0 +1,15 @@
+package net.minecraft.server.v1_12_R1;
+
+public interface IPosition {
+  double getX();
+  
+  double getY();
+  
+  double getZ();
+}
+
+
+/* Location:              C:\Users\Utilisateur\Desktop\spigot-1.12.jar!\net\minecraft\server\v1_12_R1\IPosition.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */
